@@ -1,0 +1,6 @@
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\bin\Debug\MinElementArray.exe.config
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\bin\Debug\MinElementArray.exe
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\bin\Debug\MinElementArray.pdb
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\obj\Debug\MinElementArray.csproj.CoreCompileInputs.cache
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\obj\Debug\MinElementArray.exe
+C:\Users\ansabha\source\repos\MaxElementArray\MinElementArray\obj\Debug\MinElementArray.pdb
