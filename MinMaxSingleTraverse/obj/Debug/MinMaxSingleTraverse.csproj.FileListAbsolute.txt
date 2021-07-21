@@ -1,0 +1,6 @@
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\bin\Debug\MinMaxSingleTraverse.exe.config
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\bin\Debug\MinMaxSingleTraverse.exe
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\bin\Debug\MinMaxSingleTraverse.pdb
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\obj\Debug\MinMaxSingleTraverse.csproj.CoreCompileInputs.cache
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\obj\Debug\MinMaxSingleTraverse.exe
+C:\Users\ansabha\source\repos\MaxElementArray\MinMaxSingleTraverse\obj\Debug\MinMaxSingleTraverse.pdb
