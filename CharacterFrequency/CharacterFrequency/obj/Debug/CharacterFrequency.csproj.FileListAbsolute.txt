@@ -1,0 +1,7 @@
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\bin\Debug\CharacterFrequency.exe.config
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\bin\Debug\CharacterFrequency.exe
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\bin\Debug\CharacterFrequency.pdb
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\obj\Debug\CharacterFrequency.csprojAssemblyReference.cache
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\obj\Debug\CharacterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\obj\Debug\CharacterFrequency.exe
+C:\Users\ansabha\source\repos\CharacterFrequency\CharacterFrequency\obj\Debug\CharacterFrequency.pdb
